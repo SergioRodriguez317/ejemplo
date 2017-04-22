@@ -1,0 +1,6 @@
+C:\Users\Sergio Rodriguez\Documents\Sergio\Programas c#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Sergio Rodriguez\Documents\Sergio\Programas c#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Sergio Rodriguez\Documents\Sergio\Programas c#\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Sergio Rodriguez\Documents\Sergio\Programas c#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Rodriguez\Documents\Sergio\Programas c#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Sergio Rodriguez\Documents\Sergio\Programas c#\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
